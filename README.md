@@ -19,8 +19,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 2-1: _Html & CSS - Estrutudas de páginas_
 - [x] 2-2: _Html & CSS - Primeiros Passos em CSS_
-- [0] 2-3: _Html & CSS - _Seletores e posicionamento_
-- [0] 2-4: _Html & CSS - Semântico_
+- [ ] 2-3: _Html & CSS - _Seletores e posicionamento_
+- [ ] 2-4: _Html & CSS - Semântico_
 
 [etc...]
 
