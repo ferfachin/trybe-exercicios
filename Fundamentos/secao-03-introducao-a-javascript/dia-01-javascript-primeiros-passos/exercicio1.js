@@ -1,8 +1,10 @@
+const a = 50;
+const b = 30;
+const c = 25;
 
-const a = 5;
-const b = 20;
+//exercicio 1
 
-adicao = a + b;
+/* adicao = a + b;
 console.log(adicao)
 
 subtracao = a - b;
@@ -15,5 +17,18 @@ divisao = a / b;
 console.log(divisao)
 
 modulo = a**b;
-console.log(modulo)
+console.log(modulo) */
 
+//exercicio 2
+
+/* if (a > b) {
+  console.log('Numero a é maior')
+} else {
+  console.log('b é maior')
+} */
+
+//exercicio 3
+
+if(a > b && a > c){
+  console.log('')
+}
