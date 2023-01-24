@@ -1,6 +1,7 @@
 const a = 50;
 const b = 30;
 const c = 25;
+let resultado;
 
 //exercicio 1
 
@@ -29,6 +30,8 @@ console.log(modulo) */
 
 //exercicio 3
 
-if(a > b && a > c){
-  console.log('')
+if(resultado = a > b){
+  console.log(resultado)
+}else{
+  console.log(resultado)
 }
