@@ -39,7 +39,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-3: _JavaScript - Eventos_
 - [ ] 4-4: _JavaScript - Web Storage_
 - [ ] 4-5: _Projeto    -    Arte com Pixels_
-- [ ] 4-6: _Projeto    -    Bonus _
-
-
+- [ ] 4-6: _Projeto    -    Bonus_
 
