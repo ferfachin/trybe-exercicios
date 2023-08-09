@@ -1,4 +1,4 @@
-const colorSite = document.getElementById("header-container");
+git puconst colorSite = document.getElementById("header-container");
 colorSite.style.backgroundColor = "green";
 
 const colorSite2 = document.querySelector(".emergency-tasks");
